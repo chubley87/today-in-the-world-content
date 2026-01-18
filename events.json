@@ -1,13 +1,22 @@
 {
     "events": [
         {
-        "date": "2026-01-17",
-        "title": "Up-Helly-Aa Fire Festival",
-        "city": "Lerwick",
-        "country": "Scotland",
-        "description": "A Viking-inspired fire festival featuring a torchlit procession and the burning of a replica longship.",
-        "lat": 60.155,
-        "lng": -1.145
+            "date": "2026-01-17",
+            "title": "Up-Helly-Aa Fire Festival",
+            "city": "Lerwick",
+            "country": "Scotland",
+            "description": "A Viking-inspired fire festival featuring a torchlit procession and the burning of a replica longship.",
+            "lat": 60.155,
+            "lng": -1.145
+        },
+        {
+            "date": "2026-01-18",
+            "title": "Standard Chartered Hong Kong Marathon",
+            "city": "Hong Kong",
+            "country": "Hong Kong",
+            "description": "Today, the Standard Chartered Hong Kong Marathon brings thousands of runners and spectators to the streets of Hong Kong, with events in marathon, half-marathon, 10 km, and wheelchair categories.",
+            "lat": 22.3193,
+            "lng": 114.1694
         }
     ]
 }
