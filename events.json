@@ -17,6 +17,15 @@
             "description": "Today, the Standard Chartered Hong Kong Marathon brings thousands of runners and spectators to the streets of Hong Kong, with events in marathon, half-marathon, 10 km, and wheelchair categories.",
             "lat": 22.3193,
             "lng": 114.1694
+        },
+        {
+          "date": "2026-01-19",
+          "title": "Royal Langkawi International Regatta",
+          "city": "Langkawi",
+          "country": "Malaysia",
+          "description": "The 22nd Royal Langkawi International Regatta, an international sailing competition featuring competitive yacht racing across multiple classes, takes place from 19th to 24th January 2026 at the Royal Langkawi Yacht Club in Kuah, drawing sailors from around the world. :contentReference[oaicite:0]{index=0}",
+          "lat": 6.3031,
+          "lng": 99.8490
         }
     ]
 }
