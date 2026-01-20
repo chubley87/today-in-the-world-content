@@ -1,6 +1,15 @@
 {
     "events": [
         {
+            "date": "2026-01-20",
+            "title": "La Tamborrada",
+            "city": "San Sebastián",
+            "country": "Spain",
+            "description": "La Tamborrada is an annual drum festival celebrated in San Sebastián, where thousands of participants dressed as soldiers and cooks march through the streets playing drums for 24 hours to honor the city's patron saint, Saint Sebastian.",
+            "lat": 43.3183,
+            "lng": -1.9812
+        }
+        {
             "date": "2026-01-19",
             "title": "Up-Helly-Aa Fire Festival",
             "city": "Lerwick",
@@ -19,13 +28,13 @@
             "lng": 114.1694
         },
         {
-          "date": "2026-01-17",
-          "title": "Royal Langkawi International Regatta",
-          "city": "Langkawi",
-          "country": "Malaysia",
-          "description": "The 22nd Royal Langkawi International Regatta, an international sailing competition featuring competitive yacht racing across multiple classes, takes place from 19th to 24th January 2026 at the Royal Langkawi Yacht Club in Kuah, drawing sailors from around the world.",
-          "lat": 6.3031,
-          "lng": 99.8490
+            "date": "2026-01-17",
+            "title": "Royal Langkawi International Regatta",
+            "city": "Langkawi",
+            "country": "Malaysia",
+            "description": "The 22nd Royal Langkawi International Regatta, an international sailing competition featuring competitive yacht racing across multiple classes, takes place from 19th to 24th January 2026 at the Royal Langkawi Yacht Club in Kuah, drawing sailors from around the world.",
+            "lat": 6.3031,
+            "lng": 99.8490
         }
     ]
 }
