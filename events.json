@@ -1,6 +1,15 @@
 {
     "events": [
         {
+            "date": "2026-01-23",
+            "title": "Temple Bar TradFest",
+            "city": "Dublin",
+            "country": "Ireland",
+            "description": "Temple Bar TradFest is an annual Irish traditional music and arts festival held in Dublin’s Temple Bar district. It features performances by top traditional musicians, céilí dances, street music, workshops, and family-friendly events, celebrating Irish culture and heritage.",
+            "lat": 53.3450,
+            "lng": -6.2672,
+        }
+        {
             "date": "2026-01-20",
             "title": "La Tamborrada",
             "city": "San Sebastián",
